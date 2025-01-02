@@ -1,0 +1,9 @@
+
+[Server]
+	#Limit item tags to particular size. 
+	#It prevents a huge Cartesian multiplication for recipes consist of several long tags. 
+	#Zero means no limitation. 
+	#Default: 1
+	#Range: 0 ~ 5
+	tag_limit = 1
+
