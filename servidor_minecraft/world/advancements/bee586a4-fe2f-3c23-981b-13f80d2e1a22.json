@@ -1,0 +1,3977 @@
+{
+  "cataclysm:find_sunken_city": {
+    "criteria": {
+      "factory": "2024-12-12 10:56:09 +0000"
+    },
+    "done": true
+  },
+  "ic2:mv_charge_bench_kit_indirect_gold_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:31 +0000"
+    },
+    "done": true
+  },
+  "ic2:plant_ball_sapling_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:38:53 +0000"
+    },
+    "done": true
+  },
+  "ic2:gunpowder_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:tutorial/dt_1": {
+    "criteria": {
+      "coded_trigger": "2024-12-16 22:25:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-12-14 19:35:22 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/magnet_ring": {
+    "criteria": {
+      "has_parent_recipe": "2024-12-10 19:38:43 +0000",
+      "has_items": "2024-12-11 00:08:39 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_compass": "2024-12-10 19:14:42 +0000"
+    },
+    "done": true
+  },
+  "ic2:composite_chest_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 00:14:36 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:tutorial/dt_3": {
+    "criteria": {
+      "coded_trigger": "2024-12-16 22:29:39 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/materials_and_you": {
+    "criteria": {
+      "crafted_book": "2024-12-10 19:14:42 +0000"
+    },
+    "done": true
+  },
+  "ic2:bio_ball_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:37:16 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:internal/starting_book": {
+    "criteria": {
+      "tick": "2024-12-10 19:14:42 +0000"
+    },
+    "done": true
+  },
+  "ic2:trade_o_mat_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:34:29 +0000"
+    },
+    "done": true
+  },
+  "ic2:plasma_cable_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
+    },
+    "done": true
+  },
+  "ic2:composite_boots_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:14:43 +0000"
+    },
+    "done": true
+  },
+  "ic2:tfbp_biome_forestification_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:38:53 +0000"
+    },
+    "done": true
+  },
+  "ic2:iv_charge_bench_kit_indirect_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:31 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 22:20:36 +0000"
+    },
+    "done": true
+  },
+  "cisco_mod:lawbringer": {
+    "criteria": {
+      "lawbringer": "2024-12-13 14:20:01 +0000"
+    },
+    "done": true
+  },
+  "ic2:static_boots_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 00:14:42 +0000"
+    },
+    "done": true
+  },
+  "ic2:lv_unloader_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:31 +0000"
+    },
+    "done": true
+  },
+  "vtubruhlotrmobs:ringachivkavtubruh": {
+    "criteria": {
+      "ringachivkavtubruh": "2024-12-11 00:47:56 +0000"
+    },
+    "done": true
+  },
+  "ic2:glass_iced_tea_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 23:45:06 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/the_acknowledgment": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-10 19:14:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2024-12-12 18:37:12 +0000"
+    },
+    "done": true
+  },
+  "ic2:aluminum_sign_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:36 +0000"
+    },
+    "done": true
+  },
+  "ic2:iron_scaffold_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2024-12-17 00:36:06 +0000"
+    },
+    "done": true
+  },
+  "ic2:wet_cfoam_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
+    },
+    "done": true
+  },
+  "ic2:emerald_uum_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 00:08:39 +0000"
+    },
+    "done": true
+  },
+  "ic2:cobblegen_upgrade_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 21:13:36 +0000"
+    },
+    "done": true
+  },
+  "ic2:bio_chunk_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:32:16 +0000"
+    },
+    "done": true
+  },
+  "ic2:industrial_worktable_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:36 +0000"
+    },
+    "done": true
+  },
+  "ic2:overgrowth_fertilizer_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 21:13:36 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/enigmatic_elytra": {
+    "criteria": {
+      "has_the_recipe": "2024-12-17 00:36:06 +0000"
+    },
+    "done": true
+  },
+  "ic2:glowtronic_crystal_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 23:42:41 +0000"
+    },
+    "done": true
+  },
+  "ic2:composite_leggings_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 00:14:40 +0000"
+    },
+    "done": true
+  },
+  "ic2:bronze_hoe_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:36 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/mega_sponge": {
+    "criteria": {
+      "has_the_recipe": "2024-12-14 14:58:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2024-12-14 19:34:45 +0000"
+    },
+    "done": true
+  },
+  "ic2:crafter_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 18:28:21 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/enigmatic_elytra": {
+    "criteria": {
+      "has_items": "2024-12-17 00:36:06 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2024-12-11 00:45:40 +0000"
+    },
+    "done": true
+  },
+  "ic2:tfbp_irrigation_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 21:13:36 +0000"
+    },
+    "done": true
+  },
+  "ic2:capacity_pipe_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 00:20:20 +0000"
+    },
+    "done": true
+  },
+  "ic2:teleport_valve_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 00:08:39 +0000"
+    },
+    "done": true
+  },
+  "ic2:mug_cold_fruit_tea_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 00:45:54 +0000"
+    },
+    "done": true
+  },
+  "ic2:upgrade_base_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 13:39:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:pixelfoam_space_bean_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-15 14:31:56 +0000"
+    },
+    "done": true
+  },
+  "ic2:iv_battery_station_kit_indirect_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:31 +0000"
+    },
+    "done": true
+  },
+  "ic2:raw_obsidian_blade_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 21:13:59 +0000"
+    },
+    "done": true
+  },
+  "ic2:rubberwood_fence_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:36 +0000"
+    },
+    "done": true
+  },
+  "ic2:unprinted_wiki_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:40:37 +0000"
+    },
+    "done": true
+  },
+  "ic2:singularity_compressor_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:41:25 +0000"
+    },
+    "done": true
+  },
+  "ic2:aluminum_sword_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:36 +0000"
+    },
+    "done": true
+  },
+  "ic2:glass_cocoa_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:34:58 +0000"
+    },
+    "done": true
+  },
+  "ic2:lv_transformer_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:31 +0000"
+    },
+    "done": true
+  },
+  "ic2:raw_silver_block_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 00:02:49 +0000"
+    },
+    "done": true
+  },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2024-12-10 19:22:49 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/hunter_guidebook": {
+    "criteria": {
+      "has_the_recipe": "2024-12-11 00:10:55 +0000"
+    },
+    "done": true
+  },
+  "ic2:insulated_copper_cable_2_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-16 01:06:46 +0000"
+    },
+    "done": true
+  },
+  "ic2:wind_turbine_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
+    },
+    "done": true
+  },
+  "ic2:glass_to_splash_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:38:04 +0000"
+    },
+    "done": true
+  },
+  "ic2:od_scanner_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 23:42:41 +0000"
+    },
+    "done": true
+  },
+  "quark:overlevel_enchant": {
+    "criteria": {
+      "overlevel_enchant": "2024-12-16 20:45:55 +0000"
+    },
+    "done": true
+  },
+  "ic2:battery_belt_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:51:11 +0000"
+    },
+    "done": true
+  },
+  "ic2:ev_charging_bench_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:31 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2024-12-14 19:58:20 +0000"
+    },
+    "done": true
+  },
+  "ic2:big_ranged_ov_scanner_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 23:42:41 +0000"
+    },
+    "done": true
+  },
+  "iter_rpg:iter_root": {
+    "criteria": {
+      "iter_root": "2024-12-10 19:14:42 +0000"
+    },
+    "done": true
+  },
+  "ic2:planter_pot_sand_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 22:20:36 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2024-12-10 19:14:42 +0000"
+    },
+    "done": true
+  },
+  "ic2:armor_configurator_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:36 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/tome_uncrafting/tattered_tome": {
+    "criteria": {
+      "has_items": "2024-12-12 19:01:28 +0000"
+    },
+    "done": true
+  },
+  "ic2:chips_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:36 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/materials/netherite": {
+    "criteria": {
+      "has_scrap": "2024-12-14 19:38:47 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2024-12-13 22:09:08 +0000"
+    },
+    "done": true
+  },
+  "ic2:condensator_lap_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
+    },
+    "done": true
+  },
+  "ic2:hopper_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:34:29 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:ambitious_explorer": {
+    "criteria": {
+      "entered_tower_of_the_undead": "2024-12-13 23:29:15 +0000",
+      "entered_stables": "2024-12-11 20:50:59 +0000",
+      "entered_pirate_ship": "2024-12-14 13:40:34 +0000",
+      "entered_deep_crypt": "2024-12-11 00:21:42 +0000",
+      "entered_large_dungeon": "2024-12-12 18:35:39 +0000",
+      "entered_ruined_building": "2024-12-13 23:53:16 +0000"
+    },
+    "done": false
+  },
+  "ic2:exp_collector_upgrade_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 23:45:39 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-13 19:13:54 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/hunter_guidebook": {
+    "criteria": {
+      "has_items": "2024-12-11 00:10:55 +0000"
+    },
+    "done": true
+  },
+  "ic2:hv_charging_bench_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:31 +0000"
+    },
+    "done": true
+  },
+  "ic2:coolant_cell_10_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 21:13:36 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/redstonelamps": {
+    "criteria": {
+      "has_parent_recipe": "2024-12-14 19:23:04 +0000",
+      "has_core_block": "2024-12-12 10:51:43 +0000"
+    },
+    "done": true
+  },
+  "ic2:mug_iced_tea_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 23:45:06 +0000"
+    },
+    "done": true
+  },
+  "ic2:aluminum_shovel_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:36 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/golden_ring": {
+    "criteria": {
+      "has_the_recipe": "2024-12-11 19:45:35 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-10 19:14:43 +0000"
+    },
+    "done": false
+  },
+  "enigmaticlegacy:recipes/generic/desolation_ring": {
+    "criteria": {
+      "has_parent_recipe": "2024-12-11 19:45:35 +0000"
+    },
+    "done": false
+  },
+  "ic2:ov_scanner_2_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 23:42:41 +0000"
+    },
+    "done": true
+  },
+  "simpleplanes:recipes/plane": {
+    "criteria": {
+      "in_fire": "2024-12-14 13:43:58 +0000"
+    },
+    "done": true
+  },
+  "ic2:lv_flux_generator_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:38:43 +0000"
+    },
+    "done": true
+  },
+  "ic2:acquire_refined_iron": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
+    },
+    "done": true
+  },
+  "takesapillage:root": {
+    "criteria": {
+      "always": "2024-12-10 19:14:42 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-10 19:14:43 +0000"
+    },
+    "done": false
+  },
+  "enigmaticlegacy:book/relics/blazing_core": {
+    "criteria": {
+      "has_items": "2024-12-15 14:34:07 +0000"
+    },
+    "done": true
+  },
+  "ic2:obsidian_magma_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 21:59:14 +0000"
+    },
+    "done": true
+  },
+  "ic2:re_battery_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-12-11 00:14:36 +0000"
+    },
+    "done": true
+  },
+  "ic2:gold_cable_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:45:35 +0000"
+    },
+    "done": true
+  },
+  "ic2:iron_rotor_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "muskeg": "2024-12-11 00:40:45 +0000",
+      "shrubland": "2024-12-12 10:46:47 +0000",
+      "erupting_inferno": "2024-12-14 15:50:54 +0000",
+      "cold_desert": "2024-12-10 19:18:50 +0000",
+      "maple_woods": "2024-12-17 00:24:46 +0000",
+      "crystalline_chasm": "2024-12-14 20:11:11 +0000",
+      "withered_abyss": "2024-12-14 20:11:04 +0000",
+      "field": "2024-12-11 01:07:15 +0000",
+      "orchard": "2024-12-12 10:46:36 +0000",
+      "coniferous_forest": "2024-12-10 19:19:03 +0000",
+      "forested_field": "2024-12-13 22:12:14 +0000",
+      "spider_nest": "2024-12-23 21:36:48 +0000",
+      "redwood_forest": "2024-12-13 23:17:40 +0000",
+      "cherry_blossom_grove": "2024-12-12 10:42:38 +0000",
+      "dune_beach": "2024-12-12 10:47:03 +0000",
+      "seasonal_forest": "2024-12-11 00:17:11 +0000",
+      "lavender_field": "2024-12-13 23:17:46 +0000",
+      "fir_clearing": "2024-12-11 00:37:50 +0000",
+      "pumpkin_patch": "2024-12-11 21:13:22 +0000",
+      "grassland": "2024-12-12 10:42:35 +0000",
+      "snowy_coniferous_forest": "2024-12-11 00:41:59 +0000",
+      "snowy_fir_clearing": "2024-12-11 00:40:49 +0000",
+      "tundra": "2024-12-10 19:26:40 +0000",
+      "glowing_grotto": "2024-12-11 20:45:56 +0000",
+      "snowy_maple_woods": "2024-12-11 00:44:28 +0000",
+      "ominous_woods": "2024-12-13 22:11:41 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2024-12-14 19:58:51 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/iron_ring": {
+    "criteria": {
+      "has_the_recipe": "2024-12-10 19:38:43 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:iammusicplayer/root": {
+    "criteria": {
+      "iammusicplayer": "2024-12-11 00:37:28 +0000"
+    },
+    "done": true
+  },
+  "undead_unleashed:shards_of_the_past": {
+    "criteria": {
+      "shards_of_the_past": "2024-12-11 00:18:35 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/soul_compass": {
+    "criteria": {
+      "has_items1": "2024-12-16 01:11:34 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-11 00:46:34 +0000"
+    },
+    "done": true
+  },
+  "ic2:carbon_boat_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:31:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-11 00:24:02 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/spinefish": {
+    "criteria": {
+      "has_item": "2024-12-14 13:29:52 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:iammusicplayer/listen_to_music": {
+    "criteria": {
+      "listen_to_music": "2024-12-11 00:37:28 +0000"
+    },
+    "done": true
+  },
+  "ic2:raw_uranium_block_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:04:27 +0000"
+    },
+    "done": true
+  },
+  "ic2:electric_enchanter_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 18:59:46 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "magma_cream": "2024-12-14 16:02:09 +0000",
+      "earth": "2024-12-12 10:35:39 +0000"
+    },
+    "done": false
+  },
+  "dungeons_enhanced:thats_a_dungeon": {
+    "criteria": {
+      "entered_large_dungeon": "2024-12-12 18:35:39 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:tutorial/root": {
+    "criteria": {
+      "auto": "2024-12-10 19:14:43 +0000"
+    },
+    "done": true
+  },
+  "ic2:quarry_scanner_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
+    },
+    "done": true
+  },
+  "ic2:macerator_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:27:35 +0000"
+    },
+    "done": true
+  },
+  "ic2:dynamite_remote_upgrade_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:42:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-10 19:22:49 +0000"
+    },
+    "done": true
+  },
+  "ic2:normal_quantum_armor_leggings_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 23:42:41 +0000"
+    },
+    "done": true
+  },
+  "ic2:simple_fluid_import_upgrade_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 00:20:20 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2024-12-11 21:13:30 +0000",
+      "opened_chest": "2024-12-11 00:45:40 +0000"
+    },
+    "done": false
+  },
+  "ic2:macerator_upgrade_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
+    },
+    "done": true
+  },
+  "ic2:tfbp_biome_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
+    },
+    "done": true
+  },
+  "iter_rpg:economy": {
+    "criteria": {
+      "economy": "2024-12-14 19:44:11 +0000"
+    },
+    "done": true
+  },
+  "ic2:mv_battery_station_bronze_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:31 +0000"
+    },
+    "done": true
+  },
+  "ic2:tesla_coil_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
+    },
+    "done": true
+  },
+  "ic2:hv_charge_bench_kit_indirect_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:31 +0000"
+    },
+    "done": true
+  },
+  "ic2:itnt_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 21:13:59 +0000"
+    },
+    "done": true
+  },
+  "ic2:stacking_tube_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2024-12-11 20:56:10 +0000",
+      "minecraft:blaze": "2024-12-14 16:11:57 +0000",
+      "minecraft:skeleton": "2024-12-11 00:17:46 +0000",
+      "minecraft:ghast": "2024-12-14 19:58:51 +0000",
+      "minecraft:hoglin": "2024-12-15 14:23:09 +0000",
+      "minecraft:vindicator": "2024-12-11 20:55:54 +0000",
+      "minecraft:magma_cube": "2024-12-14 15:57:08 +0000",
+      "minecraft:spider": "2024-12-10 19:25:04 +0000",
+      "minecraft:piglin_brute": "2024-12-15 14:29:07 +0000",
+      "minecraft:creeper": "2024-12-10 19:38:02 +0000",
+      "minecraft:slime": "2024-12-12 10:35:31 +0000",
+      "minecraft:evoker": "2024-12-14 13:48:28 +0000",
+      "minecraft:phantom": "2024-12-11 21:02:28 +0000",
+      "minecraft:zombified_piglin": "2024-12-14 20:04:38 +0000",
+      "minecraft:witch": "2024-12-13 23:39:51 +0000",
+      "minecraft:wither_skeleton": "2024-12-14 16:05:06 +0000",
+      "minecraft:cave_spider": "2024-12-23 21:37:12 +0000",
+      "minecraft:piglin": "2024-12-15 14:32:49 +0000",
+      "minecraft:enderman": "2024-12-11 00:10:39 +0000",
+      "minecraft:zombie": "2024-12-10 19:41:52 +0000",
+      "minecraft:drowned": "2024-12-14 13:38:59 +0000",
+      "minecraft:zombie_villager": "2024-12-16 01:31:10 +0000"
+    },
+    "done": false
+  },
+  "ic2:armor_priority_upgrade_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 00:10:55 +0000"
+    },
+    "done": true
+  },
+  "ic2:electrolyzer_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-16 01:06:54 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/brewing/molten_heart_potion": {
+    "criteria": {
+      "has_items": "2024-12-14 14:08:28 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-24 02:40:31 +0000"
+    },
+    "done": false
+  },
+  "ic2:tfbp_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-12-13 19:12:56 +0000"
+    },
+    "done": true
+  },
+  "ic2:bronze_axe_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:36 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:troll_hunter": {
+    "criteria": {
+      "troll_hunter": "2024-12-11 20:01:25 +0000"
+    },
+    "done": true
+  },
+  "ic2:dynamite_remote_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 23:42:41 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/all_spellstones": {
+    "criteria": {
+      "spellstone4": "2024-12-15 14:34:07 +0000"
+    },
+    "done": false
+  },
+  "ic2:glass_cold_fruit_tea_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 00:45:54 +0000"
+    },
+    "done": true
+  },
+  "ic2:su_battery_5_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/tools/forbidden_axe": {
+    "criteria": {
+      "has_the_recipe": "2024-12-16 01:11:34 +0000"
+    },
+    "done": true
+  },
+  "ic2:tfbp_mushroom_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 21:13:41 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/materials/ancient_debris": {
+    "criteria": {
+      "has_scrap": "2024-12-14 19:38:47 +0000"
+    },
+    "done": true
+  },
+  "ic2:sawmill_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:28:48 +0000"
+    },
+    "done": true
+  },
+  "ic2:big_ranged_od_scanner_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 23:42:41 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_decorative_grave": {
+    "criteria": {
+      "has_decorative_grave": "2024-12-14 14:42:23 +0000"
+    },
+    "done": true
+  },
+  "ic2:coal_ball_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 21:13:59 +0000"
+    },
+    "done": true
+  },
+  "ic2:nano_saber_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 23:42:41 +0000"
+    },
+    "done": true
+  },
+  "ic2:step_module_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 22:47:34 +0000"
+    },
+    "done": true
+  },
+  "ic2:gold_module_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 11:10:13 +0000"
+    },
+    "done": true
+  },
+  "vtubruhlotrmobs:dost_base": {
+    "criteria": {
+      "dost_base": "2024-12-10 19:14:42 +0000"
+    },
+    "done": true
+  },
+  "ic2:stone_macerator_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:27:35 +0000"
+    },
+    "done": true
+  },
+  "ic2:time_card_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 23:34:01 +0000"
+    },
+    "done": true
+  },
+  "ic2:planter_pot_soul_sand_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 23:41:46 +0000"
+    },
+    "done": true
+  },
+  "ic2:teleport_tube_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 00:08:39 +0000"
+    },
+    "done": true
+  },
+  "ic2:redstone_tube_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_wool_white_3_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 00:32:54 +0000"
+    },
+    "done": true
+  },
+  "ic2:extinguish_module_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 21:13:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2024-12-16 23:44:53 +0000"
+    },
+    "done": true
+  },
+  "ic2:su_battery_2_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_wool_white_2_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 00:32:54 +0000"
+    },
+    "done": true
+  },
+  "ic2:2x_insulated_iron_cable_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
+    },
+    "done": true
+  },
+  "ic2:su_battery_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
+    },
+    "done": true
+  },
+  "ic2:su_battery_4_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
+    },
+    "done": true
+  },
+  "ic2:detector_pipe_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2024-12-13 22:16:54 +0000"
+    },
+    "done": true
+  },
+  "ic2:rare_earth_chunk_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:38:43 +0000"
+    },
+    "done": true
+  },
+  "ic2:advanced_alloy_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
+    },
+    "done": true
+  },
+  "ic2:glass_cocoa_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:34:58 +0000"
+    },
+    "done": true
+  },
+  "ic2:insulated_copper_cable_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 13:39:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2024-12-16 23:49:34 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2024-12-13 22:09:08 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:root": {
+    "criteria": {
+      "entered_deep_crypt": "2024-12-11 00:21:42 +0000"
+    },
+    "done": true
+  },
+  "ic2:electric_jetpack_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
+    },
+    "done": true
+  },
+  "ic2:overclocker_upgrade_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-16 01:06:54 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/christmas": {
+    "criteria": {
+      "coded_trigger": "2024-12-10 19:14:42 +0000"
+    },
+    "done": true
+  },
+  "ic2:drill_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
+    },
+    "done": true
+  },
+  "ic2:mv_charging_bench_bronze_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:31 +0000"
+    },
+    "done": true
+  },
+  "ic2:mv_charging_bench_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:31 +0000"
+    },
+    "done": true
+  },
+  "ic2:hazmat_boots_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 00:32:54 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_netherite": {
+    "criteria": {
+      "inv_changed-netherite": "2024-12-10 19:14:42 +0000"
+    },
+    "done": true
+  },
+  "ic2:food_storage_module_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 18:28:21 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-24 02:40:31 +0000"
+    },
+    "done": false
+  },
+  "ic2:cobblegen_upgrade_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 00:24:02 +0000"
+    },
+    "done": true
+  },
+  "ic2:magnetizer_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
+    },
+    "done": true
+  },
+  "ic2:mining_laser_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2024-12-10 19:14:42 +0000"
+    },
+    "done": true
+  },
+  "ic2:glass_coffee_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 23:45:06 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2024-12-14 13:23:36 +0000"
+    },
+    "done": true
+  },
+  "ic2:terraformer_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:27:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-11 19:59:33 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/mega_sponge": {
+    "criteria": {
+      "has_items": "2024-12-14 14:58:29 +0000"
+    },
+    "done": true
+  },
+  "ic2:lv_charging_bench_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:31 +0000"
+    },
+    "done": true
+  },
+  "ic2:tfbp_chilling_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 14:11:11 +0000"
+    },
+    "done": true
+  },
+  "ic2:turbine_blade_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
+    },
+    "done": true
+  },
+  "ic2:honey_cake_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:57:27 +0000"
+    },
+    "done": true
+  },
+  "ic2:crop_harvester_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:34:29 +0000"
+    },
+    "done": true
+  },
+  "ic2:barrel_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:31 +0000"
+    },
+    "done": true
+  },
+  "ic2:drain_upgrade_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 23:42:41 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/mining_charm": {
+    "criteria": {
+      "has_the_recipe": "2024-12-14 16:08:18 +0000"
+    },
+    "done": true
+  },
+  "ic2:compressor_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:33:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-14 13:21:31 +0000"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/misc/item_book": {
+    "criteria": {
+      "has_paper": "2024-12-11 20:40:37 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_wool_black_2_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 20:53:29 +0000"
+    },
+    "done": true
+  },
+  "ic2:vent_steam_overclocked_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:43:23 +0000"
+    },
+    "done": true
+  },
+  "ic2:copper_sign_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:36 +0000"
+    },
+    "done": true
+  },
+  "ic2:condensator_lap_repair_lapis_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:42:52 +0000"
+    },
+    "done": true
+  },
+  "ic2:treetap_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:31 +0000"
+    },
+    "done": true
+  },
+  "ic2:electric_furnace_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
+    },
+    "done": true
+  },
+  "ic2:mug_cocoa_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:34:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-10 19:39:01 +0000"
+    },
+    "done": true
+  },
+  "undead_unleashed:boo": {
+    "criteria": {
+      "boo": "2024-12-11 00:25:09 +0000"
+    },
+    "done": true
+  },
+  "ic2:coal_chunk_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:41:25 +0000"
+    },
+    "done": true
+  },
+  "bossominium:loot_bosses_a": {
+    "criteria": {
+      "loot_bosses_a": "2024-12-10 19:14:42 +0000"
+    },
+    "done": true
+  },
+  "ic2:hydrated_coal_dust_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 21:13:36 +0000"
+    },
+    "done": true
+  },
+  "ic2:ranged_ov_scanner_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 23:42:41 +0000"
+    },
+    "done": true
+  },
+  "ic2:condensator_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
+    },
+    "done": true
+  },
+  "ic2:esu_minecart_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 21:15:08 +0000"
+    },
+    "done": true
+  },
+  "ic2:exp_collector_upgrade_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 23:45:39 +0000"
+    },
+    "done": true
+  },
+  "ic2:tfbp_cultivation_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:22:53 +0000"
+    },
+    "done": true
+  },
+  "ic2:heat_exchanger_spread_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:45:35 +0000"
+    },
+    "done": true
+  },
+  "ic2:inventory_card_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 18:28:21 +0000"
+    },
+    "done": true
+  },
+  "ic2:iron_fence_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
+    },
+    "done": true
+  },
+  "ic2:hazmat_helmet_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:43:23 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2024-12-10 19:14:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:spider": "2024-12-10 19:25:04 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/decorations/redstone_lantern": {
+    "criteria": {
+      "has_the_recipe": "2024-12-14 19:23:04 +0000"
+    },
+    "done": true
+  },
+  "ic2:nuke_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:38:04 +0000"
+    },
+    "done": true
+  },
+  "ic2:machine_block_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-24 02:40:31 +0000"
+    },
+    "done": false
+  },
+  "ic2:aluminum_axe_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:36 +0000"
+    },
+    "done": true
+  },
+  "ic2:iron_furnace_upgrade_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:29:11 +0000"
+    },
+    "done": true
+  },
+  "ic2:iridium_plate_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 00:08:39 +0000"
+    },
+    "done": true
+  },
+  "ic2:composite_helmet_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 00:51:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2024-12-10 19:22:51 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_glowstone": {
+    "criteria": {
+      "inv_changed-glowstone": "2024-12-10 19:14:42 +0000"
+    },
+    "done": true
+  },
+  "ic2:electric_furnace_upgrade_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:29:11 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/earth_island": {
+    "criteria": {
+      "found_island": "2024-12-12 10:35:39 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-24 02:40:31 +0000"
+    },
+    "done": false
+  },
+  "enigmaticlegacy:book/enchantments/generic": {
+    "criteria": {
+      "has_items": "2024-12-11 00:45:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:old_growth_pine_taiga": "2024-12-13 23:15:31 +0000",
+      "minecraft:taiga": "2024-12-12 19:08:00 +0000",
+      "minecraft:deep_ocean": "2024-12-12 10:41:25 +0000",
+      "minecraft:frozen_river": "2024-12-11 00:09:40 +0000",
+      "minecraft:windswept_hills": "2024-12-11 00:40:44 +0000",
+      "minecraft:beach": "2024-12-12 10:43:10 +0000",
+      "minecraft:river": "2024-12-11 00:37:28 +0000",
+      "minecraft:snowy_plains": "2024-12-10 19:14:43 +0000",
+      "minecraft:snowy_taiga": "2024-12-11 00:41:08 +0000",
+      "minecraft:cold_ocean": "2024-12-11 21:19:28 +0000",
+      "minecraft:forest": "2024-12-11 00:37:39 +0000",
+      "minecraft:deep_cold_ocean": "2024-12-11 21:20:00 +0000",
+      "minecraft:ice_spikes": "2024-12-11 00:09:43 +0000",
+      "minecraft:frozen_ocean": "2024-12-11 00:41:26 +0000",
+      "minecraft:windswept_forest": "2024-12-11 00:43:35 +0000",
+      "minecraft:deep_frozen_ocean": "2024-12-14 21:02:28 +0000",
+      "minecraft:ocean": "2024-12-12 10:41:29 +0000",
+      "minecraft:snowy_beach": "2024-12-11 00:05:46 +0000",
+      "minecraft:windswept_gravelly_hills": "2024-12-11 00:39:02 +0000",
+      "minecraft:plains": "2024-12-10 19:21:08 +0000"
+    },
+    "done": false
+  },
+  "ic2:electric_treetap_upgrade_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-16 22:19:27 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-10 19:14:43 +0000"
+    },
+    "done": false
+  },
+  "ic2:batbox_minecart_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 21:15:08 +0000"
+    },
+    "done": true
+  },
+  "ic2:overclocker_upgrade_2_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-16 01:06:54 +0000"
+    },
+    "done": true
+  },
+  "ic2:glass_fiber_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 00:08:39 +0000"
+    },
+    "done": true
+  },
+  "ic2:hydrated_charcoal_dust_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 21:13:36 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_wool_gray_3_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-16 01:31:44 +0000"
+    },
+    "done": true
+  },
+  "ic2:composite_leggings_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 00:14:40 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-24 02:40:31 +0000"
+    },
+    "done": false
+  },
+  "ic2:efficient_sawblade_upgrade_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:36 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/avarice_scroll": {
+    "criteria": {
+      "has_parent_recipe": "2024-12-11 21:01:54 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-12-11 21:11:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-12-15 14:21:04 +0000"
+    },
+    "done": true
+  },
+  "ic2:base_teleporter_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 00:10:55 +0000"
+    },
+    "done": true
+  },
+  "ic2:rare_earth_extractor_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 23:42:41 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/lore_inscriber": {
+    "criteria": {
+      "has_recipe_result": "2024-12-12 18:40:22 +0000"
+    },
+    "done": true
+  },
+  "ic2:durable_sawblade_upgrade_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:36 +0000"
+    },
+    "done": true
+  },
+  "ic2:tin_sign_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:36 +0000"
+    },
+    "done": true
+  },
+  "ic2:mute_upgrade_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:25:09 +0000"
+    },
+    "done": true
+  },
+  "ic2:bronze_pickaxe_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:36 +0000"
+    },
+    "done": true
+  },
+  "ic2:mining_pipe_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
+    },
+    "done": true
+  },
+  "ic2:crop_analyzer_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
+    },
+    "done": true
+  },
+  "ic2:circuit_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
+    },
+    "done": true
+  },
+  "ic2:electric_smoker_upgrade_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/animal_guidebook": {
+    "criteria": {
+      "has_the_recipe": "2024-12-11 20:40:37 +0000"
+    },
+    "done": true
+  },
+  "ic2:weedex_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
+    },
+    "done": true
+  },
+  "ic2:mfe_minecart_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 21:15:08 +0000"
+    },
+    "done": true
+  },
+  "ic2:composite_chest_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 00:14:36 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-12-10 19:14:42 +0000"
+    },
+    "done": true
+  },
+  "ic2:hv_flux_generator_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:38:43 +0000"
+    },
+    "done": true
+  },
+  "ic2:isu_minecart_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 21:15:08 +0000"
+    },
+    "done": true
+  },
+  "ic2:sound_beacon_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 00:32:54 +0000"
+    },
+    "done": true
+  },
+  "cisco_mod:sleeping_sword": {
+    "criteria": {
+      "sleeping_sword": "2024-12-16 22:54:16 +0000"
+    },
+    "done": true
+  },
+  "ic2:hv_battery_station_kit_indirect_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:31 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2024-12-12 18:54:01 +0000"
+    },
+    "done": true
+  },
+  "ic2:flesh_ball_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:22:51 +0000"
+    },
+    "done": true
+  },
+  "ic2:cutter_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:38:43 +0000"
+    },
+    "done": true
+  },
+  "ic2:ranged_od_scanner_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 23:42:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2024-12-14 19:33:27 +0000",
+      "minecraft:nether_wastes": "2024-12-14 16:13:02 +0000",
+      "minecraft:basalt_deltas": "2024-12-14 15:51:37 +0000"
+    },
+    "done": false
+  },
+  "ic2:build_cable": {
+    "criteria": {
+      "hasItem": "2024-12-16 01:06:54 +0000"
+    },
+    "done": true
+  },
+  "ic2:fisher_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 13:42:45 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/void_stone": {
+    "criteria": {
+      "has_items": "2024-12-14 16:08:18 +0000"
+    },
+    "done": true
+  },
+  "ic2:condensator_lap_repair_redstone_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2024-12-14 13:45:13 +0000"
+    },
+    "done": true
+  },
+  "ic2:item_limiter_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:40:37 +0000"
+    },
+    "done": true
+  },
+  "ic2:simple_fluid_export_upgrade_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 00:20:20 +0000"
+    },
+    "done": true
+  },
+  "ic2:root": {
+    "criteria": {
+      "hasCrafting": "2024-12-10 19:20:36 +0000"
+    },
+    "done": true
+  },
+  "ic2:insulated_iron_cable_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
+    },
+    "done": true
+  },
+  "ic2:glass_cold_dark_coffee_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 21:13:36 +0000"
+    },
+    "done": true
+  },
+  "ic2:storage_expansion_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-12 18:28:21 +0000"
+    },
+    "done": true
+  },
+  "ic2:vent_steam_core_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:43:23 +0000"
+    },
+    "done": true
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2024-12-14 15:50:53 +0000"
+    },
+    "done": true
+  },
+  "ic2:rubber_boat_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:31:19 +0000"
+    },
+    "done": true
+  },
+  "ic2:chocolate_cake_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:34:58 +0000"
+    },
+    "done": true
+  },
+  "ic2:upgrade_container_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:34:29 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2024-12-11 20:55:54 +0000"
+    },
+    "done": true
+  },
+  "ic2:coffee_cake_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:57:27 +0000"
+    },
+    "done": true
+  },
+  "ic2:lapatron_crystal_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:42:52 +0000"
+    },
+    "done": true
+  },
+  "ic2:chainsaw_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
+    },
+    "done": true
+  },
+  "ic2:itnt_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 21:13:59 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/consume_soul": {
+    "criteria": {
+      "coded_trigger": "2024-12-14 21:54:30 +0000"
+    },
+    "done": true
+  },
+  "ic2:frequency_transmitter_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-16 01:06:54 +0000"
+    },
+    "done": true
+  },
+  "ic2:mug_cold_green_tea_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 21:13:36 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-24 02:40:31 +0000"
+    },
+    "done": false
+  },
+  "ic2:memory_expansion_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:36 +0000"
+    },
+    "done": true
+  },
+  "ic2:ov_scanner_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 23:42:41 +0000"
+    },
+    "done": true
+  },
+  "ic2:mfsu_minecart_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 21:15:08 +0000"
+    },
+    "done": true
+  },
+  "ulterlands:the_ulterlands": {
+    "criteria": {
+      "the_ulterlands": "2024-12-10 19:14:42 +0000"
+    },
+    "done": true
+  },
+  "ic2:vent_steam_overclocked_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:45:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-14 15:50:53 +0000"
+    },
+    "done": true
+  },
+  "ic2:void_tube_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 00:24:02 +0000"
+    },
+    "done": true
+  },
+  "ic2:ranged_od_scanner_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 23:42:41 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:infernal_dunes": "2024-12-14 19:58:20 +0000"
+    },
+    "done": false
+  },
+  "ic2:vent_heat_adv_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 00:08:39 +0000"
+    },
+    "done": true
+  },
+  "ic2:wave_generator_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/decorations/item_prismarine": {
+    "criteria": {
+      "has_prismarine": "2024-12-11 19:41:46 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_wool_black_3_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 20:53:29 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/iron_ring": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-10 19:38:43 +0000"
+    },
+    "done": true
+  },
+  "ic2:parachute_module_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-12-14 19:31:39 +0000"
+    },
+    "done": true
+  },
+  "ic2:painter_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:38:43 +0000"
+    },
+    "done": true
+  },
+  "ic2:planter_pot_dirt_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:27:27 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/bonus_wool_recipes": {
+    "criteria": {
+      "has_white_wool": "2024-12-11 00:32:54 +0000"
+    },
+    "done": true
+  },
+  "ic2:muffler_upgrade_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 00:32:54 +0000"
+    },
+    "done": true
+  },
+  "ic2:speed_tube_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:45:35 +0000"
+    },
+    "done": true
+  },
+  "ic2:glass_fiber_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 00:08:39 +0000"
+    },
+    "done": true
+  },
+  "ic2:heat_spreader_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:43:23 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/infernal_shield": {
+    "criteria": {
+      "has_parent_recipe": "2024-12-10 19:14:42 +0000",
+      "has_items2": "2024-12-16 01:11:34 +0000"
+    },
+    "done": false
+  },
+  "enigmaticlegacy:recipes/generic/heaven_scroll": {
+    "criteria": {
+      "has_parent_recipe": "2024-12-11 21:01:54 +0000"
+    },
+    "done": false
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2024-12-11 00:45:00 +0000"
+    },
+    "done": true
+  },
+  "ic2:crop_sticks_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:36 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2024-12-14 19:58:20 +0000"
+    },
+    "done": true
+  },
+  "ic2:lead_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:25:09 +0000"
+    },
+    "done": true
+  },
+  "ic2:advanced_circuit_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:42:52 +0000"
+    },
+    "done": true
+  },
+  "ic2:mv_battery_station_kit_indirect_bronze_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:31 +0000"
+    },
+    "done": true
+  },
+  "ic2:energy_o_mat_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
+    },
+    "done": true
+  },
+  "ic2:ov_scanner_3_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 23:42:41 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/arcane_scrolls": {
+    "criteria": {
+      "has_the_recipe": "2024-12-11 21:01:54 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2024-12-11 21:02:28 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/magnet_ring": {
+    "criteria": {
+      "has_the_recipe": "2024-12-11 00:08:39 +0000"
+    },
+    "done": true
+  },
+  "ic2:insulated_copper_cable_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 13:39:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:lv_battery_station_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2024-12-10 19:22:49 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/dune_blaze": {
+    "criteria": {
+      "requirement": "2024-12-14 19:56:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "ham": "2024-12-12 18:57:01 +0000"
+    },
+    "done": true
+  },
+  "ic2:detector_cable_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/decorations/wool_black": {
+    "criteria": {
+      "has_wool": "2024-12-14 20:53:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2024-12-11 01:01:32 +0000",
+      "cooked_beef": "2024-12-14 13:56:37 +0000",
+      "baked_potato": "2024-12-11 20:51:34 +0000",
+      "bread": "2024-12-10 19:29:18 +0000",
+      "golden_apple": "2024-12-12 10:46:03 +0000",
+      "rotten_flesh": "2024-12-10 19:25:19 +0000",
+      "melon_slice": "2024-12-10 19:24:35 +0000",
+      "cooked_chicken": "2024-12-13 18:56:16 +0000",
+      "mushroom_stew": "2024-12-14 13:33:52 +0000"
+    },
+    "done": false
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 13:21:10 +0000"
+    },
+    "done": true
+  },
+  "ic2:memory_stick_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 00:08:39 +0000"
+    },
+    "done": true
+  },
+  "ic2:lemon_cake_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:57:27 +0000"
+    },
+    "done": true
+  },
+  "ic2:energy_crystal_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 00:08:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2024-12-14 20:14:38 +0000"
+    },
+    "done": true
+  },
+  "ic2:reinforced_stone_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:33:50 +0000"
+    },
+    "done": true
+  },
+  "ic2:vent_steam_adv_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 00:08:39 +0000"
+    },
+    "done": true
+  },
+  "ic2:energy_storage_upgrade_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:31 +0000"
+    },
+    "done": true
+  },
+  "ic2:simple_import_upgrade_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 13:39:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:mv_battery_station_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:31 +0000"
+    },
+    "done": true
+  },
+  "ic2:mug_cold_dark_coffee_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 21:13:36 +0000"
+    },
+    "done": true
+  },
+  "ic2:vent_steam_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:43:23 +0000"
+    },
+    "done": true
+  },
+  "ic2:ranged_ov_scanner_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 23:42:41 +0000"
+    },
+    "done": true
+  },
+  "ic2:glass_to_lingering_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 23:45:39 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-14 13:20:19 +0000"
+    },
+    "done": true
+  },
+  "ic2:2x_insulated_gold_cable_2_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:45:35 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2024-12-13 23:42:37 +0000"
+    },
+    "done": true
+  },
+  "ic2:advanced_tree_tap_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-16 01:11:34 +0000"
+    },
+    "done": true
+  },
+  "ic2:ocean_generator_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
+    },
+    "done": true
+  },
+  "ic2:filtered_fluid_scanner_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:34:29 +0000"
+    },
+    "done": true
+  },
+  "ic2:pickup_tube_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:41:25 +0000"
+    },
+    "done": true
+  },
+  "ic2:tfbp_desertification_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 22:20:36 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_dark_marble": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 14:42:15 +0000"
+    },
+    "done": true
+  },
+  "ic2:mass_fabricator_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 23:42:41 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-10 19:14:43 +0000"
+    },
+    "done": false
+  },
+  "ic2:ev_battery_station_kit_indirect_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:31 +0000"
+    },
+    "done": true
+  },
+  "ic2:rocket_miner_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 21:15:08 +0000"
+    },
+    "done": true
+  },
+  "ic2:electric_hoe_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
+    },
+    "done": true
+  },
+  "ic2:glass_cold_black_tea_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 21:13:36 +0000"
+    },
+    "done": true
+  },
+  "ic2:hover_tube_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 00:08:39 +0000"
+    },
+    "done": true
+  },
+  "ic2:unconnecting_tube_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 19:30:24 +0000"
+    },
+    "done": true
+  },
+  "ic2:bronze_shield_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:14:43 +0000"
+    },
+    "done": true
+  },
+  "ic2:aluminum_pickaxe_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:36 +0000"
+    },
+    "done": true
+  },
+  "ic2:mowing_tool_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-12-14 16:07:23 +0000"
+    },
+    "done": true
+  },
+  "ic2:scrap_metal_blade_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 21:13:59 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:recipes/corail_dt/disk_1_0": {
+    "criteria": {
+      "requirement1": "2024-12-10 19:20:31 +0000",
+      "requirement0": "2024-12-16 22:25:49 +0000"
+    },
+    "done": true
+  },
+  "ic2:torch_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:36 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:recipes/corail_dt/disk_1_1": {
+    "criteria": {
+      "requirement1": "2024-12-10 19:27:35 +0000",
+      "requirement0": "2024-12-16 22:25:49 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:recipes/corail_dt/disk_1_2": {
+    "criteria": {
+      "requirement1": "2024-12-10 19:38:43 +0000",
+      "requirement0": "2024-12-16 22:25:49 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:recipes/corail_dt/disk_1_3": {
+    "criteria": {
+      "requirement1": "2024-12-11 00:08:39 +0000",
+      "requirement0": "2024-12-16 22:25:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2024-12-12 10:48:20 +0000"
+    },
+    "done": false
+  },
+  "corail_dt:recipes/corail_dt/disk_1_4": {
+    "criteria": {
+      "requirement1": "2024-12-11 19:45:35 +0000",
+      "requirement0": "2024-12-16 22:25:49 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/cursed_ring": {
+    "criteria": {
+      "has_items": "2024-12-10 19:14:42 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/discover_spellstone": {
+    "criteria": {
+      "spellstone": "2024-12-15 14:34:07 +0000"
+    },
+    "done": true
+  },
+  "ic2:monitor_card_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 00:10:55 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/lore_inscriber": {
+    "criteria": {
+      "has_the_recipe": "2024-12-12 18:40:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-10 19:27:35 +0000"
+    },
+    "done": true
+  },
+  "ic2:electric_blast_furnace_upgrade_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:53:22 +0000"
+    },
+    "done": true
+  },
+  "ic2:electric_pipe_pump_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
+    },
+    "done": true
+  },
+  "ic2:wood_gassifier_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:51:27 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-12 11:05:51 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/brewing/haste_potion": {
+    "criteria": {
+      "has_items": "2024-12-14 13:24:56 +0000"
+    },
+    "done": true
+  },
+  "ic2:monitor_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-16 01:06:54 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2024-12-14 13:20:19 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/combine_in_inventory": {
+    "criteria": {
+      "coded_trigger": "2024-12-14 21:54:12 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:ahoy": {
+    "criteria": {
+      "entered_pirate_ship": "2024-12-14 13:40:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-10 19:24:35 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/thicc_scroll": {
+    "criteria": {
+      "has_items": "2024-12-11 21:01:54 +0000"
+    },
+    "done": true
+  },
+  "ic2:wet_cfoam_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
+    },
+    "done": true
+  },
+  "ic2:tfbp_flatificator_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:27:27 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2024-12-14 21:02:28 +0000"
+    },
+    "done": true
+  },
+  "ic2:hv_battery_station_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:31 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2024-12-11 20:52:16 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:iammusicplayer/listen_to_remote_music": {
+    "criteria": {
+      "listen_to_remote_music": "2024-12-11 00:37:28 +0000"
+    },
+    "done": true
+  },
+  "ic2:mv_battery_station_kit_indirect_gold_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:31 +0000"
+    },
+    "done": true
+  },
+  "ic2:rubberwood_sign_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:36 +0000"
+    },
+    "done": true
+  },
+  "ic2:generator_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-24 02:40:31 +0000"
+    },
+    "done": false
+  },
+  "ic2:generator_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:29:11 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/ender_ring": {
+    "criteria": {
+      "has_parent_recipe": "2024-12-10 19:38:43 +0000"
+    },
+    "done": false
+  },
+  "ic2:simple_fluid_import_upgrade_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 00:20:20 +0000"
+    },
+    "done": true
+  },
+  "ic2:solar_helmet_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 00:51:01 +0000"
+    },
+    "done": true
+  },
+  "ic2:mv_charge_bench_kit_indirect_bronze_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mysterious_gift": {
+    "criteria": {
+      "coded_trigger": "2024-12-11 19:26:43 +0000"
+    },
+    "done": true
+  },
+  "ic2:iron_cable_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
+    },
+    "done": true
+  },
+  "ic2:wooden_scaffold_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_strange_scroll": {
+    "criteria": {
+      "has_strange_scroll": "2024-12-14 21:54:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-12-10 19:14:42 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2024-12-14 13:21:10 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2024-12-14 13:56:09 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:recipes/corail_dt/disk_0_0": {
+    "criteria": {
+      "requirement1": "2024-12-10 19:20:31 +0000"
+    },
+    "done": false
+  },
+  "ic2:water_mill_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:31 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:recipes/corail_dt/disk_0_1": {
+    "criteria": {
+      "requirement1": "2024-12-10 19:27:35 +0000"
+    },
+    "done": false
+  },
+  "corail_dt:recipes/corail_dt/disk_0_2": {
+    "criteria": {
+      "requirement1": "2024-12-10 19:38:43 +0000"
+    },
+    "done": false
+  },
+  "corail_dt:recipes/corail_dt/disk_0_3": {
+    "criteria": {
+      "requirement1": "2024-12-11 00:08:39 +0000"
+    },
+    "done": false
+  },
+  "enigmaticlegacy:recipes/generic/mining_charm": {
+    "criteria": {
+      "has_items": "2024-12-14 16:08:18 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:recipes/corail_dt/disk_0_4": {
+    "criteria": {
+      "requirement1": "2024-12-11 19:45:35 +0000"
+    },
+    "done": false
+  },
+  "ic2:charcoal_block_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:30:29 +0000"
+    },
+    "done": true
+  },
+  "ic2:hydrated_coal_dust_mass_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 21:13:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-14 15:50:53 +0000"
+    },
+    "done": true
+  },
+  "ic2:induction_smoker_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 13:39:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:advanced_drill_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-16 01:11:34 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/forbidden_axe": {
+    "criteria": {
+      "has_items": "2024-12-16 01:11:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-16 02:15:02 +0000"
+    },
+    "done": true
+  },
+  "ic2:mv_unloader_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_decorative_grave": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 14:42:23 +0000"
+    },
+    "done": true
+  },
+  "ic2:luminator_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
+    },
+    "done": true
+  },
+  "ic2:cropmatron_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:34:29 +0000"
+    },
+    "done": true
+  },
+  "ic2:advanced_hoe_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-16 01:11:34 +0000"
+    },
+    "done": true
+  },
+  "ic2:construction_light_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:40:43 +0000"
+    },
+    "done": true
+  },
+  "ic2:mud_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:27:27 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_chest": {
+    "criteria": {
+      "inv_changed-chest": "2024-12-10 19:14:42 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2024-12-10 19:14:42 +0000"
+    },
+    "done": true
+  },
+  "ic2:dynamite_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:25:09 +0000"
+    },
+    "done": true
+  },
+  "ic2:vent_heat_overclocked_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:45:35 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_recipe": "2024-12-10 19:14:42 +0000"
+    },
+    "done": true
+  },
+  "ic2:colossal_compressor_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 19:35:22 +0000"
+    },
+    "done": true
+  },
+  "ic2:mug_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:33:50 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2024-12-11 21:14:57 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-24 02:40:31 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-10 19:41:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-11 00:08:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-10 19:28:37 +0000"
+    },
+    "done": true
+  },
+  "ic2:tap_bucket_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 00:20:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2024-12-14 13:33:52 +0000"
+    },
+    "done": true
+  },
+  "ic2:vent_heat_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2024-12-11 21:13:30 +0000"
+    },
+    "done": true
+  },
+  "ic2:mug_cold_black_tea_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 21:13:36 +0000"
+    },
+    "done": true
+  },
+  "ic2:fluid_scanner_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 00:20:20 +0000"
+    },
+    "done": true
+  },
+  "ic2:su_battery_7_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
+    },
+    "done": true
+  },
+  "ic2:su_battery_6_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-24 02:40:31 +0000"
+    },
+    "done": false
+  },
+  "enigmaticlegacy:recipes/generic/the_twist": {
+    "criteria": {
+      "has_parent_recipe": "2024-12-10 19:14:42 +0000",
+      "has_items3": "2024-12-16 01:11:34 +0000"
+    },
+    "done": false
+  },
+  "ic2:su_battery_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/xp_scroll": {
+    "criteria": {
+      "has_parent_recipe": "2024-12-11 21:01:54 +0000",
+      "has_items": "2024-12-13 18:35:27 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/lore_fragment": {
+    "criteria": {
+      "has_items": "2024-12-11 21:01:54 +0000"
+    },
+    "done": true
+  },
+  "ic2:filtered_scanner_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:34:29 +0000"
+    },
+    "done": true
+  },
+  "ic2:su_battery_3_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
+    },
+    "done": true
+  },
+  "ic2:chunkloader_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 00:10:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
+    "criteria": {
+      "walk_on_powder_snow_with_leather_boots": "2024-12-10 19:18:54 +0000"
+    },
+    "done": true
+  },
+  "ic2:induction_blast_furnace_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 13:39:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:advanced_circuit_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:42:52 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:recipes/corail_dt/disk_3_0": {
+    "criteria": {
+      "requirement1": "2024-12-10 19:20:31 +0000",
+      "requirement0": "2024-12-16 22:28:16 +0000"
+    },
+    "done": true
+  },
+  "ic2:aluminum_hoe_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sugar_cane": "2024-12-16 00:06:51 +0000",
+      "potato": "2024-12-11 21:11:03 +0000",
+      "nether_wart": "2024-12-14 20:40:59 +0000",
+      "wheat": "2024-12-11 21:11:15 +0000"
+    },
+    "done": false
+  },
+  "corail_dt:recipes/corail_dt/disk_3_2": {
+    "criteria": {
+      "requirement1": "2024-12-10 19:38:43 +0000",
+      "requirement0": "2024-12-16 22:28:16 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:recipes/corail_dt/disk_3_1": {
+    "criteria": {
+      "requirement1": "2024-12-10 19:27:35 +0000",
+      "requirement0": "2024-12-16 22:28:16 +0000"
+    },
+    "done": true
+  },
+  "ic2:fuel_jetpack_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:recipes/corail_dt/disk_3_4": {
+    "criteria": {
+      "requirement1": "2024-12-11 19:45:35 +0000",
+      "requirement0": "2024-12-16 22:28:16 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:recipes/corail_dt/disk_3_3": {
+    "criteria": {
+      "requirement1": "2024-12-11 00:08:39 +0000",
+      "requirement0": "2024-12-16 22:28:16 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/escape_scroll": {
+    "criteria": {
+      "has_parent_recipe": "2024-12-11 21:01:54 +0000"
+    },
+    "done": false
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2024-12-12 10:50:59 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2024-12-10 19:41:53 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/structure": {
+    "criteria": {
+      "open_smeltery": "2024-12-16 01:10:56 +0000"
+    },
+    "done": true
+  },
+  "ic2:teleporter_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 00:08:39 +0000"
+    },
+    "done": true
+  },
+  "ic2:splitter_pipe_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
+    },
+    "done": true
+  },
+  "ic2:geothermal_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
+    },
+    "done": true
+  },
+  "ic2:refined_iron_sign_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:36 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/monster_charm": {
+    "criteria": {
+      "has_the_recipe": "2024-12-16 01:11:34 +0000"
+    },
+    "done": true
+  },
+  "ic2:piston_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:31 +0000"
+    },
+    "done": true
+  },
+  "quark:get_diamond_heart": {
+    "criteria": {
+      "get_diamond_heart": "2024-12-11 00:08:40 +0000"
+    },
+    "done": true
+  },
+  "ic2:mv_loader_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2024-12-14 16:05:32 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2024-12-10 19:20:36 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2024-12-10 19:14:42 +0000"
+    },
+    "done": true
+  },
+  "ic2:rail_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:36 +0000"
+    },
+    "done": true
+  },
+  "ic2:simple_crop_library_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-16 22:19:27 +0000"
+    },
+    "done": true
+  },
+  "ic2:personal_chest_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:34:29 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_wool_gray_2_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-16 01:31:44 +0000"
+    },
+    "done": true
+  },
+  "ic2:ev_battery_station_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:31 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/lore_inscriber": {
+    "criteria": {
+      "etherium": "2024-12-12 18:40:22 +0000"
+    },
+    "done": true
+  },
+  "ic2:thermal_generator_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/shroomlamps": {
+    "criteria": {
+      "has_parent_recipe": "2024-12-14 19:23:04 +0000"
+    },
+    "done": false
+  },
+  "ic2:solar_helmet_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:38:43 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:tutorial/build_complete": {
+    "criteria": {
+      "requirement1": "2024-12-16 22:06:06 +0000",
+      "requirement2": "2024-12-16 22:23:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "rice": "2024-12-11 19:34:58 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:recipes/essence": {
+    "criteria": {
+      "requirement_1": "2024-12-10 19:14:42 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:recipes/corail_dt/disk_2_1": {
+    "criteria": {
+      "requirement1": "2024-12-10 19:27:35 +0000",
+      "requirement0": "2024-12-16 22:26:47 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/golden_ring": {
+    "criteria": {
+      "has_parent_recipe": "2024-12-10 19:38:43 +0000",
+      "has_items": "2024-12-11 19:45:35 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2024-12-10 19:14:43 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:recipes/corail_dt/disk_2_0": {
+    "criteria": {
+      "requirement1": "2024-12-10 19:20:31 +0000",
+      "requirement0": "2024-12-16 22:26:47 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2024-12-10 19:14:42 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:recipes/corail_dt/disk_2_3": {
+    "criteria": {
+      "requirement1": "2024-12-11 00:08:39 +0000",
+      "requirement0": "2024-12-16 22:26:47 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:recipes/corail_dt/disk_2_2": {
+    "criteria": {
+      "requirement1": "2024-12-10 19:38:43 +0000",
+      "requirement0": "2024-12-16 22:26:47 +0000"
+    },
+    "done": true
+  },
+  "ic2:empty_quantum_armor_leggings_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 23:42:41 +0000"
+    },
+    "done": true
+  },
+  "ic2:ov_scanner_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 23:42:41 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:recipes/corail_dt/disk_2_4": {
+    "criteria": {
+      "requirement1": "2024-12-11 19:45:35 +0000",
+      "requirement0": "2024-12-16 22:26:47 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:grant_patchouli": {
+    "criteria": {
+      "tick": "2024-12-10 19:14:42 +0000"
+    },
+    "done": true
+  },
+  "ic2:toolbox_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:34:29 +0000"
+    },
+    "done": true
+  },
+  "ic2:glowstone_dust_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
+    },
+    "done": true
+  },
+  "ic2:composite_boots_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:14:43 +0000"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/decorations/wool_white": {
+    "criteria": {
+      "has_wool": "2024-12-11 00:32:54 +0000"
+    },
+    "done": true
+  },
+  "ic2:mv_flux_generator_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:38:43 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2024-12-13 23:50:48 +0000"
+    },
+    "done": true
+  },
+  "ic2:obscurator_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-16 22:18:06 +0000"
+    },
+    "done": true
+  },
+  "ic2:stone_canner_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:36 +0000"
+    },
+    "done": true
+  },
+  "ic2:coal_chunk_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 23:30:09 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/super_magnet_ring": {
+    "criteria": {
+      "has_parent_recipe": "2024-12-11 00:08:39 +0000"
+    },
+    "done": false
+  },
+  "ic2:static_boots_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:38:43 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/enigmatic_amulet": {
+    "criteria": {
+      "has_items": "2024-12-10 19:14:42 +0000"
+    },
+    "done": true
+  },
+  "iter_rpg:iter_cursed": {
+    "criteria": {
+      "iter_cursed": "2024-12-14 19:43:55 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "cold_desert": "2024-12-10 19:18:50 +0000"
+    },
+    "done": true
+  },
+  "vtubruhlotrmobs:doska_questov_achivka": {
+    "criteria": {
+      "doska_questov_achivka": "2024-12-11 00:33:28 +0000"
+    },
+    "done": true
+  },
+  "ic2:vent_steam_adv_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:43:23 +0000"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/decorations/wool_gray": {
+    "criteria": {
+      "has_wool": "2024-12-16 01:31:44 +0000"
+    },
+    "done": true
+  },
+  "ic2:composite_helmet_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 00:51:01 +0000"
+    },
+    "done": true
+  },
+  "ic2:energy_storage_upgrade_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:31 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+    "criteria": {
+      "requirement": "2024-12-14 14:16:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-10 19:20:35 +0000"
+    },
+    "done": true
+  },
+  "ic2:induction_furnace_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 13:39:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:void_pipe_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 00:24:02 +0000"
+    },
+    "done": true
+  },
+  "cisco_mod:divine_ruby_advancement": {
+    "criteria": {
+      "divine_ruby_advancement": "2024-12-13 23:46:48 +0000"
+    },
+    "done": true
+  },
+  "ic2:lv_loader_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:31 +0000"
+    },
+    "done": true
+  },
+  "ic2:insulated_gold_cable_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:45:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-11 20:41:25 +0000"
+    },
+    "done": true
+  },
+  "ic2:directional_tube_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:38:43 +0000"
+    },
+    "done": true
+  },
+  "ic2:reactor_planner_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:34:29 +0000"
+    },
+    "done": true
+  },
+  "ic2:eu_reader_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 23:42:41 +0000"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/decorations/item_quartz": {
+    "criteria": {
+      "has_quartz": "2024-12-14 13:24:56 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2024-12-14 16:08:23 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/the_cube": {
+    "criteria": {
+      "has_item_4": "2024-12-15 14:34:07 +0000"
+    },
+    "done": false
+  },
+  "enigmaticlegacy:book/accessories/xp_scroll": {
+    "criteria": {
+      "has_the_recipe": "2024-12-13 18:35:27 +0000"
+    },
+    "done": true
+  },
+  "ic2:simple_export_upgrade_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 13:39:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:refined_iron_block_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/decorations/lamp": {
+    "criteria": {
+      "has_the_recipe": "2024-12-14 19:23:04 +0000"
+    },
+    "done": true
+  },
+  "ic2:rubber_sapling_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-16 23:41:16 +0000"
+    },
+    "done": true
+  },
+  "ic2:circuit_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:49:13 +0000"
+    },
+    "done": true
+  },
+  "ic2:crafting_upgrade_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:36 +0000"
+    },
+    "done": true
+  },
+  "ic2:cf_sprayer_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-14 14:08:28 +0000"
+    },
+    "done": true
+  },
+  "ic2:batbox_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:31 +0000"
+    },
+    "done": true
+  },
+  "ic2:mug_cocoa_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:34:58 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:vampire_slayer": {
+    "criteria": {
+      "vampire_slayer": "2024-12-14 21:30:19 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/insignia": {
+    "criteria": {
+      "has_the_recipe": "2024-12-11 21:01:53 +0000"
+    },
+    "done": true
+  },
+  "ic2:mug_coffee_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 23:45:06 +0000"
+    },
+    "done": true
+  },
+  "undead_unleashed:undead_unleashed": {
+    "criteria": {
+      "undead_unleashed": "2024-12-10 19:14:42 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/insignia": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-11 21:01:53 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/monster_charm": {
+    "criteria": {
+      "has_items": "2024-12-16 01:11:34 +0000"
+    },
+    "done": true
+  },
+  "ic2:plant_ball_seed_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:22:53 +0000"
+    },
+    "done": true
+  },
+  "dungeons_plus:adventure/find_tower": {
+    "criteria": {
+      "in_structure": "2024-12-11 21:13:28 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-ender_pearl": "2024-12-10 19:14:42 +0000",
+      "inv_changed-diamond": "2024-12-10 19:14:42 +0000"
+    },
+    "done": true
+  },
+  "ic2:bronze_sign_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:36 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2024-12-10 19:14:42 +0000"
+    },
+    "done": true
+  },
+  "ic2:comparing_cable_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_hoglin_stable": "2024-12-15 14:23:55 +0000"
+    },
+    "done": true
+  },
+  "ic2:muffler_upgrade_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 00:32:54 +0000"
+    },
+    "done": true
+  },
+  "ic2:glass_cold_green_tea_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 21:13:36 +0000"
+    },
+    "done": true
+  },
+  "ironfurnaces:coal": {
+    "criteria": {
+      "rainbowcoal": "2024-12-10 19:14:42 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2024-12-13 22:09:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-11 20:00:36 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/lamps": {
+    "criteria": {
+      "has_core_block": "2024-12-14 19:23:04 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/tome_uncrafting/withered_tome": {
+    "criteria": {
+      "has_items": "2024-12-14 20:37:14 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-24 02:40:31 +0000"
+    },
+    "done": false
+  },
+  "dungeons_enhanced:seven_world_wonders": {
+    "criteria": {
+      "entered_deep_crypt": "2024-12-11 00:21:42 +0000"
+    },
+    "done": false
+  },
+  "ic2:bronze_sword_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:36 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/berserk_charm": {
+    "criteria": {
+      "has_parent_recipe": "2024-12-11 21:01:54 +0000",
+      "has_items2": "2024-12-16 01:11:34 +0000"
+    },
+    "done": false
+  },
+  "ic2:diamond_drill_silk_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 23:33:57 +0000"
+    },
+    "done": true
+  },
+  "ic2:hydrated_charcoal_dust_mass_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 21:13:36 +0000"
+    },
+    "done": true
+  },
+  "ic2:copper_cable_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 13:39:17 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-24 02:40:31 +0000"
+    },
+    "done": false
+  },
+  "enigmaticlegacy:recipes/generic/cursed_scroll": {
+    "criteria": {
+      "has_parent_recipe": "2024-12-11 21:01:54 +0000"
+    },
+    "done": false
+  },
+  "ic2:iv_battery_station_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:31 +0000"
+    },
+    "done": true
+  },
+  "ic2:advanced_chainsaw_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-16 01:11:34 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2024-12-24 02:40:32 +0000",
+      "log_spam_fixer": "2024-12-24 02:40:31 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:recipes/corail_dt/disk_4_1": {
+    "criteria": {
+      "requirement1": "2024-12-10 19:27:35 +0000"
+    },
+    "done": false
+  },
+  "corail_dt:recipes/corail_dt/disk_4_0": {
+    "criteria": {
+      "requirement1": "2024-12-10 19:20:31 +0000"
+    },
+    "done": false
+  },
+  "ic2:player_detector_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 19:51:27 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:recipes/corail_dt/disk_4_3": {
+    "criteria": {
+      "requirement1": "2024-12-11 00:08:39 +0000"
+    },
+    "done": false
+  },
+  "corail_dt:recipes/corail_dt/disk_4_2": {
+    "criteria": {
+      "requirement1": "2024-12-10 19:38:43 +0000"
+    },
+    "done": false
+  },
+  "corail_dt:recipes/corail_dt/disk_4_4": {
+    "criteria": {
+      "requirement1": "2024-12-11 19:45:35 +0000"
+    },
+    "done": false
+  },
+  "ic2:pesu_minecart_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 21:15:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2024-12-16 23:49:34 +0000"
+    },
+    "done": true
+  },
+  "ic2:villager_o_mat_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 23:34:01 +0000"
+    },
+    "done": true
+  },
+  "ic2:silver_sign_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-12-12 10:48:20 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-13 21:53:12 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-13 22:20:36 +0000"
+    },
+    "done": true
+  },
+  "ic2:colossal_furnace_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-14 13:39:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:overclocker_upgrade_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-16 01:06:54 +0000"
+    },
+    "done": true
+  },
+  "ic2:recycler_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:27:27 +0000"
+    },
+    "done": true
+  },
+  "ic2:iv_charging_bench_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:31 +0000"
+    },
+    "done": true
+  },
+  "ic2:rubberwood_fence_gate_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:36 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_grave_marble": {
+    "criteria": {
+      "has_grave_marble": "2024-12-14 14:42:15 +0000"
+    },
+    "done": true
+  },
+  "ic2:wooden_rotor_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:36 +0000"
+    },
+    "done": true
+  },
+  "ic2:condensator_repair_redstone_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
+    },
+    "done": true
+  },
+  "ic2:simple_fluid_export_upgrade_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 00:20:20 +0000"
+    },
+    "done": true
+  },
+  "ic2:aluminum_shield_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:14:43 +0000"
+    },
+    "done": true
+  },
+  "ic2:diamond_drill_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 00:08:39 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/animal_guidebook": {
+    "criteria": {
+      "has_items": "2024-12-11 20:40:37 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/root": {
+    "criteria": {
+      "flower": "2024-12-10 19:14:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-12-10 19:38:43 +0000"
+    },
+    "done": true
+  },
+  "ic2:splitter_cable_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-11 20:02:46 +0000"
+    },
+    "done": true
+  },
+  "ic2:ev_charge_bench_kit_indirect_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:31 +0000"
+    },
+    "done": true
+  },
+  "ic2:wool_rotor_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:25:09 +0000"
+    },
+    "done": true
+  },
+  "ic2:bronze_shovel_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:20:36 +0000"
+    },
+    "done": true
+  },
+  "ic2:iron_furnace_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-10 19:38:43 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3120
+}

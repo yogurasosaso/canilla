@@ -1,64 +1,6 @@
 
 [types]
 
-	[types.leaves_type]
-
-		[types.leaves_type.biomesoplenty]
-			origin = true
-			flowering_oak = true
-			maple = true
-			orange_autumn = true
-			yellow_autumn = true
-			rainbow_birch = true
-			fir = true
-			redwood = true
-			white_cherry = true
-			pink_cherry = true
-			mahogany = true
-			jacaranda = true
-			palm = true
-			willow = true
-			dead = true
-			magic = true
-			umbran = true
-			hellbark = true
-
-		[types.leaves_type.ulterlands]
-			souldrained = true
-			cedar = true
-			frax = true
-
-		[types.leaves_type.iter_rpg]
-			sacred = true
-
-		[types.leaves_type.ic2]
-			rubber = true
-
-		[types.leaves_type.phantasm]
-			pream = true
-
-		[types.leaves_type.ad_astra]
-			glacian = true
-
-		[types.leaves_type.tconstruct]
-			earth_slime = true
-			sky_slime = true
-			ender_slime = true
-
-		[types.leaves_type.quark]
-			ancient = true
-			blue_blossom = true
-			lavender_blossom = true
-			orange_blossom = true
-			pink_blossom = true
-			yellow_blossom = true
-			red_blossom = true
-
-		[types.leaves_type.forbidden_arcanus]
-			cherry = true
-			aurum = true
-			nuggety_aurum = true
-
 	[types.wood_type]
 
 		[types.wood_type.gardens_of_the_dead]
@@ -117,16 +59,65 @@
 			aurum = true
 			edelwood = true
 
+	[types.leaves_type]
+
+		[types.leaves_type.biomesoplenty]
+			origin = true
+			flowering_oak = true
+			maple = true
+			orange_autumn = true
+			yellow_autumn = true
+			rainbow_birch = true
+			fir = true
+			redwood = true
+			white_cherry = true
+			pink_cherry = true
+			mahogany = true
+			jacaranda = true
+			palm = true
+			willow = true
+			dead = true
+			magic = true
+			umbran = true
+			hellbark = true
+
+		[types.leaves_type.ulterlands]
+			souldrained = true
+			cedar = true
+			frax = true
+
+		[types.leaves_type.iter_rpg]
+			sacred = true
+
+		[types.leaves_type.ic2]
+			rubber = true
+
+		[types.leaves_type.phantasm]
+			pream = true
+
+		[types.leaves_type.ad_astra]
+			glacian = true
+
+		[types.leaves_type.tconstruct]
+			earth_slime = true
+			sky_slime = true
+			ender_slime = true
+
+		[types.leaves_type.quark]
+			ancient = true
+			blue_blossom = true
+			lavender_blossom = true
+			orange_blossom = true
+			pink_blossom = true
+			yellow_blossom = true
+			red_blossom = true
+
+		[types.leaves_type.forbidden_arcanus]
+			cherry = true
+			aurum = true
+			nuggety_aurum = true
+
 [entries]
-
-	[entries.leaves_type]
-
-		[entries.leaves_type.quark]
-			hedge = true
-			leaf_carpet = true
-
-		[entries.leaves_type.woodworks]
-			leaf_pile = true
 
 	[entries.wood_type]
 
@@ -260,4 +251,13 @@
 
 		[entries.wood_type.farmersdelight]
 			cabinet = true
+
+	[entries.leaves_type]
+
+		[entries.leaves_type.quark]
+			hedge = true
+			leaf_carpet = true
+
+		[entries.leaves_type.woodworks]
+			leaf_pile = true
 

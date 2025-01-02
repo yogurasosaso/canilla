@@ -86,16 +86,16 @@
 		generate = true
 		#Maximum size of Stella Arcanum veins [default: 3]
 		#Range: 0 ~ 100
-		max_vein_size = 3
+		max_vein_size = 4
 		#Maximum Stella Arcanum veins per chunk [default: 2]
 		#Range: 1 ~ 100
-		count = 2
+		count = 10
 		#Minimum height for Stella Arcanum to generate [default: -44]
 		#Range: > -2147483648
 		min_height = -44
 		#Maximum height for Stella Arcanum to generate [default: 42]
 		#Range: > -2147483648
-		max_height = 42
+		max_height = 60
 
 	[world_gen.cherrywood_tree]
 		#Generate Cherrywood Trees? [default: true]
