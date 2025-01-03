@@ -3084,6 +3084,12 @@
     },
     "done": true
   },
+  "ic2:normal_quantum_armor_boots_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-01-03 22:01:32 +0000"
+    },
+    "done": true
+  },
   "ic2:2x_insulated_gold_cable_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-12 05:20:32 +0000"
@@ -3713,6 +3719,12 @@
   "ic2:cfoam_surface_yellow_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-14 07:55:56 +0000"
+    },
+    "done": true
+  },
+  "ic2:uu_crop_library_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-01-03 22:01:32 +0000"
     },
     "done": true
   },
