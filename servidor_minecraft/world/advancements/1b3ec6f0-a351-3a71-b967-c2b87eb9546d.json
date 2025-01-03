@@ -726,7 +726,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-03 00:45:15 +0000"
+      "log_spam_fixer": "2025-01-03 02:05:57 +0000"
     },
     "done": false
   },
@@ -769,6 +769,12 @@
   "ic2:dynamite_remote_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-12 17:28:13 +0000"
+    },
+    "done": true
+  },
+  "ic2:uranium_block_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-01-03 02:01:26 +0000"
     },
     "done": true
   },
@@ -1026,7 +1032,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-03 00:45:15 +0000"
+      "log_spam_fixer": "2025-01-03 02:05:57 +0000"
     },
     "done": false
   },
@@ -1374,7 +1380,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-01-03 00:45:15 +0000"
+      "log_spam_fixer": "2025-01-03 02:05:57 +0000"
     },
     "done": false
   },
@@ -2412,6 +2418,12 @@
     },
     "done": true
   },
+  "ic2:compress_uranium": {
+    "criteria": {
+      "hasItem": "2025-01-03 02:01:26 +0000"
+    },
+    "done": true
+  },
   "casinocraft:recipes/decorations/wool_cyan": {
     "criteria": {
       "has_wool": "2024-12-14 21:39:32 +0000"
@@ -2629,7 +2641,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-01-03 00:45:15 +0000"
+      "log_spam_fixer": "2025-01-03 02:05:57 +0000"
     },
     "done": false
   },
@@ -2707,7 +2719,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-01-03 00:45:15 +0000"
+      "log_spam_fixer": "2025-01-03 02:05:57 +0000"
     },
     "done": false
   },
@@ -3471,7 +3483,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-01-03 00:45:15 +0000"
+      "log_spam_fixer": "2025-01-03 02:05:57 +0000"
     },
     "done": false
   },
@@ -5228,7 +5240,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-03 00:45:15 +0000"
+      "log_spam_fixer": "2025-01-03 02:05:57 +0000"
     },
     "done": false
   },
@@ -5342,7 +5354,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-03 00:45:15 +0000"
+      "log_spam_fixer": "2025-01-03 02:05:57 +0000"
     },
     "done": false
   },
@@ -5660,7 +5672,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-01-03 00:45:15 +0000"
+      "log_spam_fixer": "2025-01-03 02:05:57 +0000"
     },
     "done": false
   },
@@ -6328,7 +6340,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-03 00:45:15 +0000"
+      "log_spam_fixer": "2025-01-03 02:05:57 +0000"
     },
     "done": false
   },
@@ -7205,7 +7217,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-01-03 00:45:15 +0000"
+      "log_spam_fixer": "2025-01-03 02:05:57 +0000"
     },
     "done": false
   },
@@ -7248,7 +7260,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-01-03 00:45:15 +0000"
+      "log_spam_fixer": "2025-01-03 02:05:57 +0000"
     },
     "done": false
   },
@@ -7399,6 +7411,12 @@
   "ic2:uranium__isotopic_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-13 19:16:18 +0000"
+    },
+    "done": true
+  },
+  "ic2:uranium_ingot_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-01-03 02:01:16 +0000"
     },
     "done": true
   },
