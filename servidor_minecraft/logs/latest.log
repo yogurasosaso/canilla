@@ -3768,3 +3768,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03Jan2025 20:52:21.917] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
 [03Jan2025 20:52:39.336] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ic2/core/inventory/slot/IGhostSlot$GhostType
 [03Jan2025 20:52:52.778] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ic2/core/item/tool/EUReaderTool$ReaderMode
+[03Jan2025 20:54:59.284] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[03Jan2025 20:59:29.378] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mezz/jei/common/network/PacketIdClient
+[03Jan2025 20:59:30.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [White Painter] to YermanPC]
+[03Jan2025 20:59:35.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Light Blue Painter] to YermanPC]
+[03Jan2025 20:59:52.033] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ic2/core/block/base/features/IClickable$ClickAction
+[03Jan2025 21:03:41.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Transformer Upgrade] to YermanPC]
+[03Jan2025 21:03:42.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Transformer Upgrade] to YermanPC]
+[03Jan2025 21:03:42.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Transformer Upgrade] to YermanPC]
