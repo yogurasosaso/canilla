@@ -726,7 +726,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-02 22:37:13 +0000"
+      "log_spam_fixer": "2025-01-03 00:45:15 +0000"
     },
     "done": false
   },
@@ -946,6 +946,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2025-01-02 23:36:57 +0000"
+    },
+    "done": true
+  },
   "ic2:advanced_alloy_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 20:23:59 +0000"
@@ -1020,7 +1026,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-02 22:37:13 +0000"
+      "log_spam_fixer": "2025-01-03 00:45:15 +0000"
     },
     "done": false
   },
@@ -1288,6 +1294,12 @@
     },
     "done": true
   },
+  "ic2:esu_minecart_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-01-03 00:03:39 +0000"
+    },
+    "done": true
+  },
   "ic2:inventory_card_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 02:01:31 +0000"
@@ -1362,7 +1374,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-01-02 22:37:13 +0000"
+      "log_spam_fixer": "2025-01-03 00:45:15 +0000"
     },
     "done": false
   },
@@ -1561,6 +1573,12 @@
   "ic2:hv_flux_generator_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:15:53 +0000"
+    },
+    "done": true
+  },
+  "ic2:isu_minecart_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-01-03 00:03:34 +0000"
     },
     "done": true
   },
@@ -2611,7 +2629,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-01-02 22:37:13 +0000"
+      "log_spam_fixer": "2025-01-03 00:45:15 +0000"
     },
     "done": false
   },
@@ -2689,7 +2707,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-01-02 22:37:13 +0000"
+      "log_spam_fixer": "2025-01-03 00:45:15 +0000"
     },
     "done": false
   },
@@ -3453,7 +3471,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-01-02 22:37:13 +0000"
+      "log_spam_fixer": "2025-01-03 00:45:15 +0000"
     },
     "done": false
   },
@@ -4890,6 +4908,12 @@
     },
     "done": true
   },
+  "ic2:isu_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-01-03 00:03:39 +0000"
+    },
+    "done": true
+  },
   "ic2:honey_cake_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:41:12 +0000"
@@ -5204,7 +5228,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-02 22:37:13 +0000"
+      "log_spam_fixer": "2025-01-03 00:45:15 +0000"
     },
     "done": false
   },
@@ -5318,7 +5342,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-02 22:37:13 +0000"
+      "log_spam_fixer": "2025-01-03 00:45:15 +0000"
     },
     "done": false
   },
@@ -5636,7 +5660,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-01-02 22:37:13 +0000"
+      "log_spam_fixer": "2025-01-03 00:45:15 +0000"
     },
     "done": false
   },
@@ -6304,7 +6328,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-02 22:37:13 +0000"
+      "log_spam_fixer": "2025-01-03 00:45:15 +0000"
     },
     "done": false
   },
@@ -6436,6 +6460,12 @@
   "enigmaticlegacy:recipes/generic/forbidden_axe": {
     "criteria": {
       "has_items": "2024-12-23 00:30:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-01-03 00:10:59 +0000"
     },
     "done": true
   },
@@ -6639,7 +6669,8 @@
       "kelp": "2024-12-16 08:55:08 +0000",
       "sugar_cane": "2024-12-12 04:15:49 +0000",
       "nether_wart": "2024-12-23 00:38:04 +0000",
-      "wheat": "2024-12-15 02:50:20 +0000"
+      "wheat": "2024-12-15 02:50:20 +0000",
+      "carrot": "2025-01-02 23:24:31 +0000"
     },
     "done": false
   },
@@ -6784,6 +6815,12 @@
   "ic2:solar_helmet_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:15:53 +0000"
+    },
+    "done": true
+  },
+  "ic2:build_reader": {
+    "criteria": {
+      "hasItem": "2025-01-03 00:04:06 +0000"
     },
     "done": true
   },
@@ -7168,7 +7205,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-01-02 22:37:13 +0000"
+      "log_spam_fixer": "2025-01-03 00:45:15 +0000"
     },
     "done": false
   },
@@ -7211,7 +7248,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-01-02 22:37:13 +0000"
+      "log_spam_fixer": "2025-01-03 00:45:15 +0000"
     },
     "done": false
   },
