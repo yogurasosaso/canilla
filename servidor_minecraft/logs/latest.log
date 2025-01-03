@@ -3789,3 +3789,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03Jan2025 21:13:46.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Energy Crystal] to YermanPC]
 [03Jan2025 21:13:46.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Energy Crystal] to YermanPC]
 [03Jan2025 21:13:47.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Energy Crystal] to YermanPC]
+[03Jan2025 21:24:52.151] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
