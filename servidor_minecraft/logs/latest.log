@@ -3814,3 +3814,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03Jan2025 22:01:26.997] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/cursegame/minecraft/dt/network/ServerMessageTable$Action
 [03Jan2025 22:04:37.296] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ic2/core/inventory/slot/IGhostSlot$GhostType
 [03Jan2025 22:21:28.885] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ic2/core/item/tool/EUReaderTool$ReaderMode
+[03Jan2025 22:30:06.787] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ic2/core/item/tool/infos/BaseTileInfoProvider$SettingType
