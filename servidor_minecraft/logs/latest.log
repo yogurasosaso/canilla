@@ -3772,3 +3772,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Jan2025 02:54:09.060] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mezz/jei/common/network/PacketIdClient
 [04Jan2025 02:54:09.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 64    [Upgrade Base] to YermanPC]
 [04Jan2025 02:54:19.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Upgrade Base] to YermanPC]
+[04Jan2025 03:00:32.864] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ic2/core/block/base/features/IClickable$ClickAction
+[04Jan2025 03:03:02.249] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Roma'/3472, l='ServerLevel[world]', x=-85.30, y=73.05, z=-277.50] died, message: 'Roma tried to swim in lava'
+[04Jan2025 03:03:02.250] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Roma'/3472, l='ServerLevel[world]', x=-85.30, y=73.05, z=-277.50] died: Roma tried to swim in lava
+[04Jan2025 03:03:11.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Villager Spawn Egg] to YermanPC]
+[04Jan2025 03:03:20.844] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Elton'/3553, l='ServerLevel[world]', x=-85.30, y=73.04, z=-278.50] died, message: 'Elton tried to swim in lava'
+[04Jan2025 03:03:20.845] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Elton'/3553, l='ServerLevel[world]', x=-85.30, y=73.04, z=-278.50] died: Elton tried to swim in lava
