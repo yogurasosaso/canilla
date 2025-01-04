@@ -3778,3 +3778,21 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Jan2025 03:03:11.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Villager Spawn Egg] to YermanPC]
 [04Jan2025 03:03:20.844] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Elton'/3553, l='ServerLevel[world]', x=-85.30, y=73.04, z=-278.50] died, message: 'Elton tried to swim in lava'
 [04Jan2025 03:03:20.845] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Elton'/3553, l='ServerLevel[world]', x=-85.30, y=73.04, z=-278.50] died: Elton tried to swim in lava
+[04Jan2025 03:09:52.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Villager Spawn Egg] to YermanPC]
+[04Jan2025 03:10:16.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 64    [Lite Dark Youngster] to YermanPC]
+[04Jan2025 03:11:04.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 64    [Strong Beer] to YermanPC]
+[04Jan2025 03:11:08.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 64    [Strong Beer] to YermanPC]
+[04Jan2025 03:11:14.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 64    [Strong Beer] to YermanPC]
+[04Jan2025 03:11:56.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 64    [Lite Full Ale] to YermanPC]
+[04Jan2025 03:12:09.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 64    [Lite Full Ale] to YermanPC]
+[04Jan2025 03:12:32.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 64    [Thick White Ale] to YermanPC]
+[04Jan2025 03:12:55.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 64    [Lite Full Ale] to YermanPC]
+[04Jan2025 03:13:06.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 64    [Lite Full Ale] to YermanPC]
+[04Jan2025 03:13:09.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 64    [Lite Full Ale] to YermanPC]
+[04Jan2025 03:13:52.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 64    [Strong Full Dragonblood] to YermanPC]
+[04Jan2025 03:13:56.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 64    [Strong Full Dragonblood] to YermanPC]
+[04Jan2025 03:13:58.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 64    [Strong Full Dragonblood] to YermanPC]
+[04Jan2025 03:14:06.244] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[04Jan2025 03:14:11.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 64    [Strong Full Dragonblood] to YermanPC]
+[04Jan2025 03:14:12.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 64    [Strong Full Dragonblood] to YermanPC]
+[04Jan2025 03:14:31.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 64    [Clear Dragonblood] to YermanPC]
